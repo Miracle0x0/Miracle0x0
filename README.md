@@ -8,12 +8,10 @@
 - **Hometown**: Jingmen, Hubei Province in China
 - **Educational experience**
   - Bachelor (2020.09-2024.06): Computer Science, Huazhong University of Science and Technology
-  - Master (2024.09-Now): Computer Science, Huazhong University of Science and Technology
-- **Blog site**
-  - [Old Blog](https://nobody0x0.me/)
-  - [New Blog](https://nobody0x0.vercel.app)
-- **Course wiki**
-  - [Course Wiki](https://onedrive-share-miracle.vercel.app/zh-CN/)
+  - Master (2024.09-2026.06): Computer Science, Huazhong University of Science and Technology
+  - Ph.D. (2026.09-Now): Computer Science, Huazhong University of Science and Technology
+- **Homepage**
+  - [Home](https://miracle0x0.github.io/)
 
  <details><summary>Projects</summary><p>
 
